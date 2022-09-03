@@ -30,6 +30,7 @@
             "value": "j219piqFPsQBhba52F4l"
         }
     },
+    { "stack": "heroku-20" },
     "addons": [],
     "buildpacks": [
         {
